@@ -1,7 +1,9 @@
 # TableauEexExtension
 
-[![Hex.pm][shield-hex]][hexpm] [![Hex Docs][shield-docs]][docs]
-[![Apache 2.0][shield-licence]][licence] ![Coveralls][shield-coveralls]
+[![Hex Version](https://img.shields.io/hexpm/v/tableau_eex_extension?style=for-the-badge "Hex Version")](https://hex.pm/packages/mdex_custom_heading_id)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg?style=for-the-badge "Hex Docs")](https://hexdocs.pm/tableau_eex_extension)
+[![Apache 2.0](https://img.shields.io/hexpm/l/tableau_eex_extension?style=for-the-badge&label=licence "Apache 2.0")](https://github.com/halostatue/mdex_custom_heading_id/blob/main/LICENCE.md)
+![Coverage](https://img.shields.io/coverallsCoverage/github/halostatue/tableau_eex_extension?style=for-the-badge "Coverage")
 
 - code :: <https://github.com/halostatue/tableau_eex_extension>
 - issues :: <https://github.com/halostatue/tableau_eex_extension/issues>
@@ -33,7 +35,3 @@ TableauEexExtension follows [Semantic Versioning 2.0][semver].
 [hexpm]: https://hex.pm/packages/tableau_eex_extension
 [licence]: https://github.com/halostatue/tableau_eex_extension/blob/main/LICENCE.md
 [semver]: https://semver.org/
-[shield-coveralls]: https://img.shields.io/coverallsCoverage/github/halostatue/tableau_eex_extension?style=flat-square
-[shield-docs]: https://img.shields.io/badge/hex-docs-purple.svg?style=flat-square
-[shield-hex]: https://img.shields.io/hexpm/v/tableau_eex_extension.svg?style=flat-square
-[shield-licence]: https://img.shields.io/hexpm/l/tableau_eex_extension.svg?style=flat-square
